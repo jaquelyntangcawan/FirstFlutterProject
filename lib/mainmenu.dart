@@ -1,7 +1,6 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
-import 'package:hilowcardgameapp/responsivehelper.dart';
-import 'responsivehelper.dart';
+import 'rsponse.dart';
 import 'stlesswidget.dart';
 
 class MyHomePage extends StatefulWidget {
